@@ -1,0 +1,10 @@
+TO get repository into local system :
+
+Git clone "https://github.com/karthikkishore9121/UIdevelopment01.git"
+
+    To share our code  from local system to repository:
+
+git status 
+git add . 
+git commit -m "v1"
+git push
